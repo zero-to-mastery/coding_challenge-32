@@ -1,8 +1,16 @@
 # Coding Challenge 32 - Keiko Corp Startup
 
-Build your own version of the Keiko Corp Website! 
+Build your own version of the Keiko Corp Website *(With a bonus of Pair Programming!)*
 
 Last month, for Hacktoberfest, [we completed a group project for the Keiko Corp startup](https://github.com/zero-to-mastery/Keiko-Corp). We finished the month with a Responsive Layouts workshop recreating the Keiko Corp mockup. Now, we want you to show us your CSS skills. Take the [Figma Mockup](https://www.figma.com/file/NY0Do1PFf4xl0ZuSTA1X9U/Keiko-Corp-Hacktoberfest-Project?node-id=2%3A8) and show us your version of a mobile-first, responsive website. Try to use modern CSS, Flexbox and Grid, and relative units to create a fluid website for the Keiko Corp startup.
+
+## BUT WAIT! - THERE IS MORE
+
+This month we are using an awesome new tool called GitDuck to make live pair programming possible! How does this work? Keep in mind this is optional if you want to work with someone, but we do recommend doing this:
+
+1. Find a partner to do the coding challenge with in the #coding-challenge channel on our Discord server.
+2. Both of you will need to visit https://gitduck.com/ and install the extension (we recommend using VS Code for the best experience)
+3. Start live pair programming and working on the coding challenge together! 
 
 ## The Rules Are:
 
