@@ -8,8 +8,8 @@ Last month, for Hacktoberfest, [we completed a group project for the Keiko Corp 
 
 This month we are using an awesome new tool called GitDuck to make live pair programming possible! How does this work? Keep in mind this is optional if you want to work with someone, but we do recommend doing this:
 
-1. Find a partner to do the coding challenge with in the #coding-challenge channel on our Discord server.
-2. Both of you will need to visit https://gitduck.com/ and install the extension (we recommend using VS Code for the best experience)
+1. Find a partner to do the coding challenge with in the **#coding-challenge** channel on our Discord server.
+2. Both of you will need to visit https://gitduck.com/ and install the extension *(we recommend using VS Code for the best experience)*
 3. Start live pair programming and working on the coding challenge together! 
 
 ## The Rules Are:
