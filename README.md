@@ -2,7 +2,7 @@
 
 Build your own version of the Keiko Corp Website! 
 
-Last month, for Hacktoberfest, we completed a group project for the Keiko Corp startup. We finished the month with a Responsive Layouts workshop recreating the Keiko Corp mockup. Now, we want you to show us your CSS skills. Take the [Figma Mockup](https://www.figma.com/file/NY0Do1PFf4xl0ZuSTA1X9U/Keiko-Corp-Hacktoberfest-Project?node-id=2%3A8) and show us your version of a mobile-first, responsive website. Try to use modern CSS, Flexbox and Grid, and relative units to create a fluid website for the Keiko Corp startup.
+Last month, for Hacktoberfest, [we completed a group project for the Keiko Corp startup](https://github.com/zero-to-mastery/Keiko-Corp). We finished the month with a Responsive Layouts workshop recreating the Keiko Corp mockup. Now, we want you to show us your CSS skills. Take the [Figma Mockup](https://www.figma.com/file/NY0Do1PFf4xl0ZuSTA1X9U/Keiko-Corp-Hacktoberfest-Project?node-id=2%3A8) and show us your version of a mobile-first, responsive website. Try to use modern CSS, Flexbox and Grid, and relative units to create a fluid website for the Keiko Corp startup.
 
 ## The Rules Are:
 
