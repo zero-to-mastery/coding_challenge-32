@@ -22,6 +22,26 @@ This month we are using an awesome new tool called GitDuck to make live pair pro
 
 4. Use whatever tools you have as developers (google, friends, Discord, programming buddy etc...) but I will not be offering any help with this challenge. Just like a developer, you must solve a problem and create something unique. Nobody will hold your hand during the job so we want to experience that by figuring it all out on your own with your team. 
 
+
+## Submissions:
+
+Carlos Hernández#8767
+Github Pages
+https://carls13.github.io/keiko-corp/
+-----------
+
+
+Onur "Saldoc" Çoban#4930
+Github Pages
+https://saldocc.github.io/keiko-startup/
+-----------
+
+Anette#4560
+Github Pages
+https://redsquirrrel.github.io/Keiko-Corp-Startup/
+-----------
+
+
 ## One Last Thing!
 
 **Please note: As with all of our challenges, there is zero benefit or monetary gain we receive from it. This is just our way of extending the classroom and making sure that you are able to continue gaining valuable knowledge outside of the courses.**
